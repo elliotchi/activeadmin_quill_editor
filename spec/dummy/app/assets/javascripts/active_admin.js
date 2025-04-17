@@ -1,6 +1,6 @@
 //= require active_admin/base
 
-//= require activeadmin/quill_editor/quill
-//= require activeadmin/quill_editor_input
+//= require active_admin/quill_editor/quill
+//= require active_admin/quill_editor_input
 
-//= require activeadmin/quill.imageUploader.min
+//= require active_admin/quill.imageUploader.min

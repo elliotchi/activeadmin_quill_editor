@@ -2,7 +2,7 @@
 
 lib = File.expand_path('lib', __dir__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'activeadmin/quill_editor/version'
+require 'active_admin/quill_editor/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'activeadmin_quill_editor'

@@ -1,7 +1,7 @@
 // Styles
-import 'activeadmin_quill_editor/app/assets/stylesheets/activeadmin/quill_editor/quill.snow'
-import 'activeadmin_quill_editor/app/assets/stylesheets/activeadmin/_quill_editor_input'
+import 'activeadmin_quill_editor/app/assets/stylesheets/active_admin/quill_editor/quill.snow'
+import 'activeadmin_quill_editor/app/assets/stylesheets/active_admin/_quill_editor_input'
 
 // JS
-window.Quill = require('activeadmin_quill_editor/app/assets/javascripts/activeadmin/quill_editor/quill')
-require('activeadmin_quill_editor/app/assets/javascripts/activeadmin/quill_editor_input')
+window.Quill = require('activeadmin_quill_editor/app/assets/javascripts/active_admin/quill_editor/quill')
+require('activeadmin_quill_editor/app/assets/javascripts/active_admin/quill_editor_input')
